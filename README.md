@@ -1,1 +1,1 @@
-# SL10xB3-FSDJ-Sprint3
+Assignment on Bootstrap and Jquery
